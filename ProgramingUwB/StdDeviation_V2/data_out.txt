@@ -1,0 +1,2 @@
+There is the mean of data  7
+There is the sumatory of data 28
